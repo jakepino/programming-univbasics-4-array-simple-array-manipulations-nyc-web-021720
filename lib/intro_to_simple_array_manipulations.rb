@@ -43,6 +43,6 @@ def using_delete(arr,str)
 end
 
 def using_delete_at(arr, 0)
-  arr.delete(0)
+  arr.delete_at(0)
 end
   
